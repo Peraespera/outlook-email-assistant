@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+src-tauri/target/
+*.log
+dgit.png

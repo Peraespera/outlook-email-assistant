@@ -1,0 +1,13 @@
+{
+  "name": "mail-assistant-server",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node --watch index.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
